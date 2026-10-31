@@ -39,13 +39,6 @@ The HTTP endpoint can also be invoked manually with a POST request and `Authoriz
 
 Database row-level security enforces staff/customer data visibility. New accounts are customers by default; staff role assignment is explicit.
 
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/e519b0d9-3d0e-47c4-95f7-b1545b780225).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
